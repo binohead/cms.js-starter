@@ -13,7 +13,7 @@ var config = {
   github: {
     username: 'binohead',
     repo: 'cms.js-starter',
-    branch: 'main',
+    branch: 'gh-pages',
     host: 'https://api.github.com',
     // Use prefix option if your site is located in a subdirectory.
     // prefix: 'subdirectory',

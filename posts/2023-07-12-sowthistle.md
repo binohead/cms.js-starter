@@ -9,7 +9,7 @@ author: Andy
 
 A random weed, growing from crevices on the Tower Road bridge across the railroad tracks, but then it's everywhere. Why would I feature it? Partly because I keep mixing up all the plants that look like that, for instance hawkweed ...
 
-<img src="/hawkweed" alt="Hawkweed">
+<img src="https://github.com/binohead/cms.js-starter/blob/gh-pages/posts/hawkweed.jpg" alt="Hawkweed">
 
 ... many of which are edible, more (wild lettuce) or less (hawkweed?? I don't know).
 

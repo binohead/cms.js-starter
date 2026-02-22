@@ -5,6 +5,9 @@ excerpt: Oh, you ubiquitous potherb, you!
 date: 2023-07-12
 tags: plants
 author: Andy
+banner:
+  src: posts/hawkweed.jpg
+  alt: A banner image featuring hawkweed
 ---
 
 A random weed, growing from crevices on the Tower Road bridge across the railroad tracks, but then it's everywhere. Why would I feature it? Partly because I keep mixing up all the plants that look like that, for instance hawkweed ...
